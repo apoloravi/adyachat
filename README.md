@@ -25,8 +25,6 @@ Subdominio para Frontend
 
 Subdominio para API - backoffice
 
-Email válido para certificação SSL
-
 
 
 
