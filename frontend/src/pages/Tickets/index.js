@@ -65,11 +65,11 @@ const Chat = () => {
 							</>
 						) : (
 							<Paper square variant="outlined" className={classes.welcomeMsg}>
-							//PLW DESIGN LOGO//
+							https://adyahost.com
 							<div>
 							<center><img style={{ margin: "0 auto", width: "70%" }} src={logo} alt="logologin" /></center>
 							</div>
-							//PLW DESIGN LOGO//
+							https://adyahost.com
 							{/*<span>{i18n.t("chat.noTicketMessage")}</span>*/}
 							</Paper>
 						)}
