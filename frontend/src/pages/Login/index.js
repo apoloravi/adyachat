@@ -22,7 +22,7 @@ const Copyright = () => {
 		<Typography variant="body2" color="primary" align="center">
 			{"Copyright "}
  			<Link color="primary" href="#">
- 				PLW
+ 				Adya Chat
  			</Link>{" "}
  			{new Date().getFullYear()}
  			{"."}
