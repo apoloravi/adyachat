@@ -15,8 +15,10 @@ ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR EST
 ```bash
 cd && cd ./install && sudo ./install_instancia
 ```
-
-
+Repositorio Github
+```bash
+https://github.com/apoloravi/adyachat.git
+```
 ## Para Instalação você precisa:
 
 Uma VPS Ubuntu 20.04 (Configuração recomendada: 3 VCPU's + 4 GB RAM)
