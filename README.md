@@ -19,6 +19,10 @@ Repositorio Github
 ```bash
 https://github.com/apoloravi/adyachat.git
 ```
+###Dados de acesso após instalação
+User: admin@admin.com  
+Senha: 123456
+
 ## Para Instalação você precisa:
 
 Uma VPS Ubuntu 20.04 (Configuração recomendada: 3 VCPU's + 4 GB RAM)
