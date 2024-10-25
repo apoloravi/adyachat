@@ -19,7 +19,7 @@ Repositorio Github
 ```bash
 https://github.com/apoloravi/adyachat.git
 ```
-###Dados de acesso após instalação
+### Dados de acesso após instalação
 User: admin@admin.com  
 Senha: 123456
 
