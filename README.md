@@ -16,6 +16,10 @@ ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR EST
 ```bash
 cd && cd ./install && sudo ./install_instancia
 ```
+Senha do user Deploy
+```bash
+12243648
+```
 Repositorio Github Versão 1.2
 ```bash
 https://github.com/apoloravi/adyachat.git
