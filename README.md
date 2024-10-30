@@ -16,9 +16,13 @@ ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR EST
 ```bash
 cd && cd ./install && sudo ./install_instancia
 ```
-Repositorio Github
+Repositorio Github Versão 1.2
 ```bash
 https://github.com/apoloravi/adyachat.git
+```
+Repositorio Github Versão 2.0 BETA
+```bash
+https://github.com/apoloravi/adyachat2.git
 ```
 ### Dados de acesso após instalação
 User: admin@admin.com  
