@@ -24,9 +24,9 @@ Repositorio Github Versão 1.2
 ```bash
 https://github.com/apoloravi/adyachat.git
 ```
-Repositorio Github Versão 2.0 BETA
+Repositorio Github Versão V7
 ```bash
-https://github.com/apoloravi/adyachat2.git
+https://github.com/apoloravi/adyachat-atualizacao.git
 ```
 ### Dados de acesso após instalação
 User: admin@admin.com  
